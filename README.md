@@ -1,4 +1,11 @@
 # 🧠 Brain Tumor Detection System using CNN
+## Dataset
+
+The dataset used in this project can be downloaded from:
+
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
+After downloading, extract the dataset and place it in the project folder.
 
 ## 📌 Project Overview
 
